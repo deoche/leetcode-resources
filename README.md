@@ -1,8 +1,13 @@
 # leetcode-resources
-Learning project for leetcode-resources
 
-## Support
+This repository contains resources and solutions for various LeetCode problems to aid in learning and practicing coding skills.
 
-If you encounter any issues or have questions, please [open an issue](../../issues).
+## Features
+- Solutions to common LeetCode problems
+- Tips and tricks for effective coding interviews
+- Categorized problem sets for targeted practice
 
-For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
+## Usage
+1. Browse through the solutions.
+2. Clone the repository for personal practice.
+3. Feel free to contribute additional solutions or resources!
