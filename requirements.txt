@@ -1,0 +1,2 @@
+# Requirements for LeetCode solutions
+# Add any dependencies here if needed
